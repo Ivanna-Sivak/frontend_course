@@ -1,0 +1,45 @@
+.container{
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product{
+    width: 30%;
+    padding: 10px;
+}
+
+.product:hover{
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.473);
+}
+
+.product-image{
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.product-title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.product-title:hover{
+    color: darkred;
+}
+
+.product-text{
+    height: 70px;
+    text-align: center;
+    color: dimgray;
+}
+
+.product-price{
+    font-size: 25px;
+    color: rgb(216, 22, 22);
+}

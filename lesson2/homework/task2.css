@@ -1,0 +1,24 @@
+.container{
+    width: 30%;
+    min-height: 200px;
+    background-color: aqua;
+    margin: 40px auto;
+    list-style-type: none;
+}
+
+.first{
+    border: 3px indianred dashed;
+}
+
+.second{
+    border: 3px indianred dotted;
+    background-color: yellow;
+}
+
+.third{
+    border: 25px blue inset;
+}
+
+.fourth{
+    border-left: 10px black outset;
+}

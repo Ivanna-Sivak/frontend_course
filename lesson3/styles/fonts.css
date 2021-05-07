@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Oswald';
+    src: url('fonts/Oswald/static/Oswald-SemiBold.ttf');
+}
+
+@font-face{
+    font-family: 'Oswald Extra-light';
+    src: url('fonts/Oswald/static/Oswald-ExtraLight.ttf');
+}
+
+@font-face{
+    font-family: 'Oswald Variable';
+    src: url('fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: 'Raleway Variable';
+    src: url('fonts/Raleway/Raleway-VariableFont_wght.ttf');
+}
